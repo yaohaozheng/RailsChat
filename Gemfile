@@ -13,7 +13,7 @@ gem 'bootstrap-will_paginate'
 gem 'paperclip'
 
 # for seed
-gem 'faker', '~> 1.6.3'
+#gem 'faker', '~> 1.6.3'
 
 # for chat room
 gem 'faye'
@@ -65,3 +65,4 @@ group :development do
   gem 'spring'
 end
 
+gem 'simple_form'
